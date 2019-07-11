@@ -1,11 +1,15 @@
 package testpack;
 
+<<<<<<< HEAD
 import java.util.Scanner;
 
+=======
+>>>>>>> 6b9649cc5187e3e3aef0983869f19665afbd242a
 public class BaseClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+<<<<<<< HEAD
 		BaseClass rajesh = new BaseClass();
 		rajesh.arraySortByRajesh();
 		rajesh.arrayvisalvani();
@@ -86,3 +90,9 @@ public class BaseClass {
 	}
 
 }
+=======
+		System.out.println("this is my base class");
+	}
+
+}
+>>>>>>> 6b9649cc5187e3e3aef0983869f19665afbd242a
