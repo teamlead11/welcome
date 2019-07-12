@@ -4,5 +4,6 @@
 	<classpathentry excluding="greens/debug.java" kind="src" path="src"/>
 	<classpathentry kind="lib" path="src/greens/debug.java"/>
 	<classpathentry kind="lib" path="/Selenium/Lib/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-server-standalone-3.141.59.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
