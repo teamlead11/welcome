@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry excluding="greens/debug.java" kind="src" path="src"/>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="src/greens/debug.java"/>
 	<classpathentry kind="lib" path="/Selenium/Lib/selenium-server-standalone-3.141.59.jar"/>
 	<classpathentry kind="lib" path="lib/selenium-server-standalone-3.141.59.jar"/>
+=======
+	<classpathentry exported="true" kind="lib" path="src/greens/debug.java"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+>>>>>>> e03554e4392c9e402195c994af390a919658ebd0
 	<classpathentry kind="output" path="bin"/>
 </classpath>
